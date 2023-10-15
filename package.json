@@ -1,13 +1,13 @@
 {
   "name": "next-appmap",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A Nextjs package for visualizing the project's app router map in a pleasing way.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "studio": "bin/studio.js"
+    "appmap": "bin/appmap.js"
   },
   "repository": {
     "type": "git",
