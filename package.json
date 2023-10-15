@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "start": "./bin/start.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jacopozanti/next-appmap.git"
@@ -25,5 +28,11 @@
     "app router",
     "map",
     "project map"
-  ]
+  ],
+  "dependencies": {
+    "directory-tree": "^3.5.1",
+    "findup-sync": "^5.0.0",
+    "recursive-readdir": "^2.2.3",
+    "shelljs": "^0.8.5"
+  }
 }
