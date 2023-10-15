@@ -1,0 +1,29 @@
+{
+  "name": "next-appmap",
+  "version": "0.0.1",
+  "description": "A Nextjs package for visualizing the project's app router map in a pleasing way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacopozanti/next-appmap.git"
+  },
+  "author": "Jacopo Zanti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacopozanti/next-appmap/issues"
+  },
+  "homepage": "https://github.com/jacopozanti/next-appmap#readme",
+  "keywords": [
+    "next",
+    "nextjs",
+    "nextjs13",
+    "nextjs 13",
+    "next js 13",
+    "app router",
+    "map",
+    "project map"
+  ]
+}
