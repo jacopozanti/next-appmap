@@ -1,6 +1,6 @@
 {
   "name": "next-appmap",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Nextjs package for visualizing the project's app router map in a pleasing way.",
   "main": "index.js",
   "scripts": {
